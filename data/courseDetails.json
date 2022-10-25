@@ -1,7 +1,7 @@
 [
     {
         "_id": "635781fc026beb5ac77e3a7b",
-        "course_id": "02",
+        "course_id": "04",
         "title": "Complete ReactJS",
         "details": "Perfect starting point for any React beginner. Learn the basics of modern React by solving 140+ interactive coding challenges and building eight fun projects",
         "lession": "20 Lessons",
@@ -27,7 +27,7 @@
         "assessments": "Combined",
         "author": "Per Harald Borgen",
         "ratings": "4.8/5",
-        "lession": "32 Lessons",
+        "lession": "42 Lessons",
         "author_img_url": "https://scrimba.com/avatars/uid/user-3/256",
         "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png"
     },
@@ -35,7 +35,7 @@
         "_id": "635781fcde99e00c122deece",
         "course_id": "03",
         "title": "Beginners Guide to Web Design & Development",
-        "details": "This practical course is your one-stop guide to learning web development. You will begin with learning HTML and CSS to design and build professional",
+        "details": "Learn to build your very first web pages with this four hour course on HTML and CSS. Created by Kevin Powell, one of the most popular HTML & CSS instructors on the web.Learning HTML and CSS to design and build professional after succesfull completion",
         "level": "Beginners",
         "ratings": "4.37/5",
         "lession": "25",
@@ -43,15 +43,15 @@
         "duration": "30 Hours",
         "price": "500",
         "assessments": "Self",
-        "author": "Bina Ramamurthy",
-        "author_img_url": "https://coursera-instructor-photos.s3.amazonaws.com/31/6d9df0df7311e79f5d974bccf3160e/binapic1.jpg",
-        "img_url": "../images/web.jpg"
+        "author": "Kevin Powell",
+        "author_img_url": "https://scrimba.com/avatars/kevin-powell/256",
+        "img_url": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png"
     },
     {
         "_id": "635781fc7fbcbfb02557c401",
-        "course_id": "04",
+        "course_id": "05",
         "title": "Digital Marketing Specialization",
-        "details": "Master strategic marketing concepts and tools to address brand communication in a digital world.This Specialization explores several aspects of the new digital marketing environment, including topics such as digital marketing analytics, search engine optimization, social media marketing, and 3D Printing.",
+        "details": "After completing the course students will become expert Digital Marketers. They will become certified in social media marketing(Ex: Facebook, Instagram, Linkedin & Pinterest Marketing), Search Engine Optimization, Google Ads(PPC), Google Analytics, Google Tag Manager, YouTube marketing, Email Marketing, Reddit Marketing and many more.",
         "level": "Specialized",
         "ratings": "4.8/5",
         "lession": "40",
@@ -60,12 +60,12 @@
         "price": "1000",
         "assessments": "Research",
         "author": "Shanklin Langford",
-        "author_img_url": "https://coursera-instructor-photos.s3.amazonaws.com/49/8767d1172441ef8e99ad8c312875c4/Langford-Headshot-EDIT.jpg",
-        "img_url": "../images/digital marketing.jpg"
+        "author_img_url": "https://scrimba.com/avatars/uid/u7LwZys6/256",
+        "img_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/dgm-n.jpg"
     },
     {
         "_id": "635781fc8015abd8a818270a",
-        "course_id": "05",
+        "course_id": "02",
         "title": "Best CCNA and Networking Courses & Certifications",
         "details": "Take a top-rated Cisco Certified Network Associate (CCNA) training course on Udemy. From networking fundamentals to exam prep lab courses, we've got options to help get you ready for the CCNA exam. Train up now and gain valuable skills in the IT field.",
         "level": "Certified",
@@ -77,13 +77,13 @@
         "assessments": "Certifications",
         "author": "Aric Rindfleisch",
         "author_img_url": "https://coursera-instructor-photos.s3.amazonaws.com/6d/6c8b1053ba11e49b9ba916b58830db/photo.jpg",
-        "img_url": "../images/ccna.jpg"
+        "img_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2b/6e5900607d11e7bf941ff25e8a1f15/tcpip.png?auto=format%2Ccompress&dpr=2&w=330&h=330&fit=fill&q=25"
     },
     {
         "_id": "635781fcf602e84d57cb81f2",
         "course_id": "06",
-        "title": "Learn How to Unleash Your True Potential",
-        "details": "This self-help course explains the self-improvement techniques used by successful people to harness the power of positive thinking and achieve their goals.",
+        "title": "Complete Graphics Design",
+        "details": "Our graphic designing course outline will help you in learning the design tools to create attractive design templates. All our mentors are highly qualified and have proven records. They are all successful in both their freelancing and professional career. After completing this course, you will get many graphic design jobs in the freelance marketplace",
         "level": "Beginners",
         "ratings": "4.7/5",
         "lession": "20",
@@ -93,6 +93,6 @@
         "assessments": "Self",
         "author": "Mike Yao",
         "author_img_url": "https://coursera-instructor-photos.s3.amazonaws.com/d3/b3d720666811e7a3a2418f414130f7/_DSC2072.jpg",
-        "img_url": "../images/unleash.jpg"
+        "img_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/GD.jpg"
     }
 ]
