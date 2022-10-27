@@ -3,7 +3,7 @@
         "_id": "635781fc026beb5ac77e3a7b",
         "course_id": "04",
         "title": "Complete ReactJS",
-        "details": "Perfect starting point for any React beginner. Learn the basics of modern React by solving 140+ interactive coding challenges and building eight fun projects",
+        "details": "Perfect starting point for any React beginner. Learn the basics of modern React by solving 140+ interactive coding challenges and building eight fun projects.create accounts, unlock accounts, mine, transact, transfer Ethers, and check balances",
         "lession": "20 Lessons",
         "student": "140",
         "duration": "120 Hours",
@@ -18,7 +18,7 @@
     {
         "_id": "635781fc9f3cb72f33e23bf1",
         "course_id": "01",
-        "title": "Javascript from Beginner to Ninja",
+        "title": "Javascript Pro",
         "details": "This course of the Blockchain specialization provides a broad overview of the essential concepts of blockchain technology by initially exploring the Bitcoin protocol followed by the Ethereum protocol to lay the foundation necessary for developing applications and programming. You will be equipped with the knowledge needed to create nodes on your personal Ethereum blockchain, create accounts, unlock accounts, mine, transact, transfer Ethers, and check balances.",
         "level": "Advanced",
         "student": "60",
@@ -34,7 +34,7 @@
     {
         "_id": "635781fcde99e00c122deece",
         "course_id": "03",
-        "title": "Beginners Guide to Web Design & Development",
+        "title": "Web Design & Development",
         "details": "Learn to build your very first web pages with this four hour course on HTML and CSS. Created by Kevin Powell, one of the most popular HTML & CSS instructors on the web.Learning HTML and CSS to design and build professional after succesfull completion",
         "level": "Beginners",
         "ratings": "4.37/5",
@@ -50,7 +50,7 @@
     {
         "_id": "635781fc7fbcbfb02557c401",
         "course_id": "05",
-        "title": "Digital Marketing Specialization",
+        "title": "Digital Marketing",
         "details": "After completing the course students will become expert Digital Marketers. They will become certified in social media marketing(Ex: Facebook, Instagram, Linkedin & Pinterest Marketing), Search Engine Optimization, Google Ads(PPC), Google Analytics, Google Tag Manager, YouTube marketing, Email Marketing, Reddit Marketing and many more.",
         "level": "Specialized",
         "ratings": "4.8/5",
@@ -66,7 +66,7 @@
     {
         "_id": "635781fc8015abd8a818270a",
         "course_id": "02",
-        "title": "Best CCNA and Networking Courses & Certifications",
+        "title": "CCNA and Networking",
         "details": "Take a top-rated Cisco Certified Network Associate (CCNA) training course on Udemy. From networking fundamentals to exam prep lab courses, we've got options to help get you ready for the CCNA exam. Train up now and gain valuable skills in the IT field.",
         "level": "Certified",
         "ratings": "4.8",
@@ -82,7 +82,7 @@
     {
         "_id": "635781fcf602e84d57cb81f2",
         "course_id": "06",
-        "title": "Complete Graphics Design",
+        "title": "Graphics Design",
         "details": "Our graphic designing course outline will help you in learning the design tools to create attractive design templates. All our mentors are highly qualified and have proven records. They are all successful in both their freelancing and professional career. After completing this course, you will get many graphic design jobs in the freelance marketplace",
         "level": "Beginners",
         "ratings": "4.7/5",
